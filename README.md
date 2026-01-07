@@ -43,4 +43,25 @@ As a high school student, I noticed that many students struggle with organizing 
 - Notifications and reminders
 - Data persistence
 - Improved UI/UX
-
+-----------------------
+-----------------------
+## Development Log
+This log will be updated regularly to document progress, decisions, and learning throughout the development of the project.
+-----------------------
+### 06-01-2026
+- Created the project repository for the Study Tracker mobile app
+- Defined the core idea and purpose of the application
+- Wrote the initial README outlining:
+- Project overview and motivation
+- Planned features and learning goals
+- Future improvement ideas
+- Added an open-source license
+- Created a project specification document to structure development
+- Finalized the project direction before beginning implementation
+-----------------------
+### 07-01-2026
+- Reviewed and refined project documentation for clarity and consistency
+- Planned the overall development approach and learning timeline
+- Prepared the repository for the transition from planning to development
+- Decided on a gradual, documented build process focusing on learning and maintainability
+-----------------------
