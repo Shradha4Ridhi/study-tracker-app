@@ -65,3 +65,13 @@ This log will be updated regularly to document progress, decisions, and learning
 - Prepared the repository for the transition from planning to development
 - Decided on a gradual, documented build process focusing on learning and maintainability
 -----------------------
+### 10-01-2026
+Project Progress:
+- Worked on defining the core idea and structure of the Study Tracker app. The goal is to build a simple, student-friendly tool that helps users organize daily study tasks without feeling overwhelmed.
+- Planning & Concept:
+- Outlined the initial app flow with two main screens:
+      - Home Screen: View daily tasks and mark them as completed
+      - Add Task Screen: Create new study tasks with basic details
+- Focus for This Stage:
+      - Prioritized clarity, documentation, and planning before coding. This phase is focused on understanding the development process and building the app step-by-step rather than rushing features.
+-----------------------
