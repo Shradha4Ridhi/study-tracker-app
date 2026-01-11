@@ -18,37 +18,23 @@ As a high school student, I noticed that many students struggle with organizing 
 -----------------------
 - Project initiated: 06-01-2026
 - Planning and documentation phase
-- UI and development to begin soon
 
 -----------------------
-## Planned Features (Initial Version)
------------------------
-- Add subjects
-- Create tasks with deadlines
-- Mark tasks as completed
-- View daily and weekly task lists
-
 -----------------------
 ## Learning Goals
 -----------------------
-- Understand mobile app development fundamentals
+- Understand app development fundamentals
 - Practice structured problem-solving
 - Learn to document and manage a long-term project
 - Build consistency in software development
 
------------------------
-## Future Improvements
------------------------
-- Progress tracking
-- Notifications and reminders
-- Data persistence
-- Improved UI/UX
 -----------------------
 -----------------------
 ## Development Log
 This log will be updated regularly to document progress, decisions, and learning throughout the development of the project.
 -----------------------
 ### 06-01-2026
+Created Project:
 - Created the project repository for the Study Tracker mobile app
 - Defined the core idea and purpose of the application
 - Wrote the initial README outlining:
@@ -60,6 +46,7 @@ This log will be updated regularly to document progress, decisions, and learning
 - Finalized the project direction before beginning implementation
 -----------------------
 ### 07-01-2026
+Project Progress:
 - Reviewed and refined project documentation for clarity and consistency
 - Planned the overall development approach and learning timeline
 - Prepared the repository for the transition from planning to development
@@ -70,8 +57,13 @@ Project Progress:
 - Worked on defining the core idea and structure of the Study Tracker app. The goal is to build a simple, student-friendly tool that helps users organize daily study tasks without feeling overwhelmed.
 - Planning & Concept:
 - Outlined the initial app flow with two main screens:
-      - Home Screen: View daily tasks and mark them as completed
-      - Add Task Screen: Create new study tasks with basic details
+      - Home Screen
+      - Add Task Screen
 - Focus for This Stage:
-      - Prioritized clarity, documentation, and planning before coding. This phase is focused on understanding the development process and building the app step-by-step rather than rushing features.
+      - Prioritized clarity, documentation, and planning before coding.
 -----------------------
+### 11-01-2026
+Project Progress:
+- Worked on understanding the logic behind the app.
+- decided to keep the application modular for now.
+- added the final list of features needed in the project specification file.
