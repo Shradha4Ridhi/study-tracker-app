@@ -14,41 +14,49 @@ Students often struggle to manage multiple subjects, assignments, and deadlines 
 ## 3. Core Objective
 ------------------------------
 To build a simple and reliable mobile application that helps students plan, track, and complete academic tasks in a structured manner.
-
+ 
 ------------------------------
 ## 4. Core Features (Initial Version)
 ------------------------------
-- Add subjects
-- Create tasks linked to subjects
-- Set deadlines for tasks
-- Mark tasks as completed
-- View pending and completed tasks
-
+### Study & Time Management
+- Daily study log
+- Weekly study planner
+- Subject-wise time tracking
+- Pomodoro / focus timer
+- Study streak & consistency tracker
 ------------------------------
-## 5. Non-Goals (For Now)
+### Tasks & Goals
+- Daily task checklist
+- Long-term academic goals
+- Exam countdown
+- Priority-based tasks
 ------------------------------
-- No AI recommendations
-- No social features
-- No cloud sync
-- No login system
+### Analytics & Insights
+- Daily progress summary
+- Weekly productivity report
+- Subject performance analysis
+- Time distribution charts (later)
 ------------------------------
-## 6. Technical Direction
+### Organization
+- Notes organizer (metadata only for now)
+- Study resources tracker (links, books)
 ------------------------------
-- Platform: Mobile (Android-first)
-- Framework: Flutter
-- Language: Dart
-
+### Well-being 
+- Break reminders
+- Burnout indicator (logic-based)
+------------------------------
 ------------------------------
 ## 7. Development Approach
 ------------------------------
 - Build features incrementally
 - Focus on functionality before design
 - Maintain clear documentation and commit history
-
+- The application is being developed modularly, with individual feature logic implemented and documented prior to full UI and mobile integration.
 ------------------------------
 ## 8. Success Criteria
 ------------------------------
 The app is considered successful if a student can:
 - Add tasks easily
 - Track deadlines clearly
-- Develop consistent study habits using the app
+- Develop consistent study habits using the app and be disciplined
+------------------------------
