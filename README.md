@@ -67,3 +67,10 @@ Project Progress:
 - Worked on understanding the logic behind the app.
 - decided to keep the application modular for now.
 - added the final list of features needed in the project specification file.
+-----------------------
+### 12-01-2026
+Project progress: 
+- completed 1 feature (study log).
+- Practiced modular feature-based coding.
+- Used lists and dictionaries for structured data handling.
+-----------------------
