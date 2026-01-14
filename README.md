@@ -70,7 +70,14 @@ Project Progress:
 -----------------------
 ### 12-01-2026
 Project progress: 
-- completed 1 feature (study log).
+- completed 1 feature (daily-study-log).
 - Practiced modular feature-based coding.
 - Used lists and dictionaries for structured data handling.
+-----------------------
+### 14-01-2026
+Project progress:
+- Updated the first feature (daily-study-log) and completed the 2nd feature (weekly-study-planner)
+- The weekly study planner allows the student to:
+-  Plan subjects for each day of the week.
+- View the full weekly plan.
 -----------------------
