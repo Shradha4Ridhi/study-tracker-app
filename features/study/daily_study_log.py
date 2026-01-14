@@ -1,30 +1,33 @@
+# Daily Study Log Feature
+# This module allows users to log daily study activity
+
 study_log = []
 
-def add_study_session(subject, minutes):
-    session = {
+def add_study_entry(date, subject, minutes, notes=""):
+    entry = {
+        "date": date,
         "subject": subject,
-        "minutes": minutes
+        "minutes": minutes,
+        "notes": notes
     }
-    study_log.append(session)
+    study_log.append(entry)
+            print("Study entry added successfully.")
 
-def view_daily_log():
+def view_study_log():
     if not study_log:
-        print("No study sessions recorded today.")
+            print("No study entries found.")
         return
 
-    print("\nDaily Study Log:")
-    for i, session in enumerate(study_log, start=1):
-        print(f"{i}. {session['subject']} - {session['minutes']} minutes")
+    for entry in study_log:
+           print("----------------------")
+           print("Date:", entry["date"])
+           print("Subject:", entry["subject"])
+           print("Time Studied:", entry["minutes"], "minutes")
+        if entry["notes"]:
+           print("Notes:", entry["notes"])
 
-def get_total_study_time():
-    total_minutes = sum(session["minutes"] for session in study_log)
-    return total_minutes
+# Example 
+add_study_entry("2026-01-11", "Python", 60, "Worked on daily study log feature")
+add_study_entry("2026-01-11", "Math", 45)
 
-
-# Example usage
-if __name__ == "__main__":
-     add_study_session("Mathematics", 60)
-     add_study_session("Computer Science", 90)
-
-view_daily_log()
-     print(f"\nTotal study time: {get_total_study_time()} minutes")
+view_study_log()
