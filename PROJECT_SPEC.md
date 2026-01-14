@@ -16,7 +16,7 @@ Students often struggle to manage multiple subjects, assignments, and deadlines 
 To build a simple and reliable mobile application that helps students plan, track, and complete academic tasks in a structured manner.
  
 ------------------------------
-## 4. Core Features (Initial Version)
+## 4. Core Features 
 ------------------------------
 ### Study & Time Management
 - Daily study log
