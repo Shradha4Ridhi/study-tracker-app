@@ -81,3 +81,10 @@ Project progress:
 -  Plan subjects for each day of the week.
 - View the full weekly plan.
 -----------------------
+### 15-01-2026 
+Project progress: 
+- completed 2 features:
+- subject wise time tracking
+- pomodoro timer
+- many students have the habit of using pomodoro method to study as it's more effective for them
+-----------------------
