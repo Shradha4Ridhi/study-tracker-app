@@ -88,3 +88,9 @@ Project progress:
 - pomodoro timer
 - many students have the habit of using pomodoro method to study as it's more effective for them
 -----------------------
+### 16-01-2026
+Project Progress:
+- completed the last 2 features of one of the core feature ( Study and Time management)
+- Worked on study streak Tracker and consistency tracker
+- anything you do, consistency is the key, I feel that this is an efficient feature that should be in a study tracker app.
+-----------------------
