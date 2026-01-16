@@ -17,16 +17,16 @@ As a high school student, I noticed that many students struggle with organizing 
 ## Current Status
 -----------------------
 - Project initiated: 06-01-2026
-- Planning and documentation phase
+- Planning and documentation phase.
 
 -----------------------
 -----------------------
 ## Learning Goals
 -----------------------
-- Understand app development fundamentals
+- Understand app development fundamentals.
 - Practice structured problem-solving
-- Learn to document and manage a long-term project
-- Build consistency in software development
+- Learn to document and manage a long-term project.
+- Build consistency in software development.
 
 -----------------------
 -----------------------
@@ -35,22 +35,22 @@ This log will be updated regularly to document progress, decisions, and learning
 -----------------------
 ### 06-01-2026
 Created Project:
-- Created the project repository for the Study Tracker mobile app
-- Defined the core idea and purpose of the application
+- Created the project repository for the Study Tracker mobile app.
+- Defined the core idea and purpose of the application.
 - Wrote the initial README outlining:
-- Project overview and motivation
-- Planned features and learning goals
-- Future improvement ideas
-- Added an open-source license
-- Created a project specification document to structure development
-- Finalized the project direction before beginning implementation
+- Project overview and motivation.
+- Planned features and learning goals.
+- Future improvement ideas.
+- Added an open-source license.
+- Created a project specification document to structure development.
+- Finalized the project direction before beginning implementation.
 -----------------------
 ### 07-01-2026
 Project Progress:
-- Reviewed and refined project documentation for clarity and consistency
-- Planned the overall development approach and learning timeline
-- Prepared the repository for the transition from planning to development
-- Decided on a gradual, documented build process focusing on learning and maintainability
+- Reviewed and refined project documentation for clarity and consistency.
+- Planned the overall development approach and learning timeline.
+- Prepared the repository for the transition from planning to development.
+- Decided on a gradual, documented build process focusing on learning and maintainability.
 -----------------------
 ### 10-01-2026
 Project Progress:
@@ -76,7 +76,7 @@ Project progress:
 -----------------------
 ### 14-01-2026
 Project progress:
-- Updated the first feature (daily-study-log) and completed the 2nd feature (weekly-study-planner)
+- Updated the first feature (daily-study-log) and completed the 2nd feature (weekly-study-planner).
 - The weekly study planner allows the student to:
 -  Plan subjects for each day of the week.
 - View the full weekly plan.
@@ -86,11 +86,11 @@ Project progress:
 - completed 2 features:
 - subject wise time tracking
 - pomodoro timer
-- many students have the habit of using pomodoro method to study as it's more effective for them
+- many students have the habit of using pomodoro method to study as it's more effective for them.
 -----------------------
 ### 16-01-2026
 Project Progress:
-- completed the last 2 features of one of the core feature ( Study and Time management)
-- Worked on study streak Tracker and consistency tracker
+- completed the last 2 features of one of the core feature. ( Study and Time management)
+- Worked on study streak Tracker and consistency tracker.
 - anything you do, consistency is the key, I feel that this is an efficient feature that should be in a study tracker app.
 -----------------------
