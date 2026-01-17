@@ -94,3 +94,9 @@ Project Progress:
 - Worked on study streak Tracker and consistency tracker.
 - anything you do, consistency is the key, I feel that this is an efficient feature that should be in a study tracker app.
 -----------------------
+### 17-01-2026 
+Project Progress:
+- started the first 2 features from the core feature ( Tasks and Goals)
+- worked on Daily task checklist and long term academic goals
+- making sure that the app is beneficial for people who think on the long run.
+-----------------------
