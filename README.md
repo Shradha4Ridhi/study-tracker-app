@@ -96,7 +96,13 @@ Project Progress:
 -----------------------
 ### 17-01-2026 
 Project Progress:
-- started the first 2 features from the core feature ( Tasks and Goals)
-- worked on Daily task checklist and long term academic goals
+- started the first 2 features from the core feature. ( Tasks and Goals)
+- worked on Daily task checklist and long term academic goals.
 - making sure that the app is beneficial for people who think on the long run.
+-----------------------
+### 18-01-2026
+Project Progress: 
+- worked on the last 2 Feature from the core feature. (tasks and goals)
+- worked on exam countdown and priority based tasks)
+- the exam countdown feature enables the students to keep in mind their exam dates and have a constant reminder and the priority based tasks helps students understand what to do first.
 -----------------------
